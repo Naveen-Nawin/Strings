@@ -1,3 +1,7 @@
+A String is an unavoidable type of variable while writing any application program. String references are used to store various attributes
+like username, password, etc. In Java, String objects are immutable. Immutable simply means unmodifiable or unchangeable.    
+    
+    
     class Testimmutablestring1{  
      public static void main(String args[]){  
        String s="Sachin";  
@@ -5,3 +9,7 @@
        System.out.println(s);  
      }  
     }  
+    
+    
+    Output: 
+    Sachin
